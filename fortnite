@@ -821,4 +821,4 @@ lib.deleteWindow = function(name)
 end
 
 return lib
-print('HI')
+
